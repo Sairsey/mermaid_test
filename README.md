@@ -5,7 +5,7 @@ Hierarchy:
 ```mermaid
   graph TD;
       Pupa-->Konskaya;
-      Pupa-->Lupa;
-      Lupa-->Tere;
-      Konskaya-->Tere;
+      Pupa-->Tere;
+      Tere-->Lupa;
+      Konskaya-->Lupa;
 ```
