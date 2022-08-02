@@ -7,5 +7,5 @@ Hierarchy:
       Pupa-->Konskaya;
       Pupa-->Lupa;
       Lupa-->Tere;
-      Lupa-->Tere;
+      Konskaya-->Tere;
 ```
